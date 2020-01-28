@@ -23,8 +23,8 @@
         <div class="media-content">
           <div class="content">
             <strong>
-              <%= tweet.user.name %></strong><br/>
-            <small><%= tweet.user.email %></small><br/>
+              <%= tweet.user.name if tweet.user %></strong><br/>
+            <small><%= tweet.user.email if tweet.user %></small><br/>
             <p><%= tweet.tweet %></p>
           </div>
           <% if user_signed_in? && current_user.id == tweet.user_id %>
