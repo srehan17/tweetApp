@@ -31,3 +31,13 @@
 .notification:not(:last-child){
   margin-bottom: 0;
 }
+
+//adding space between checkbox and Remember me
+#user_remember_me {
+  margin-right: 7px;
+}
+
+// to remove asterisk from form labels
+abbr[title="required"] {
+  display: none;
+}
