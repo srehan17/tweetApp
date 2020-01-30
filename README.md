@@ -1,5 +1,8 @@
-# README
+Twitter Clone
 
-* Rails 5.1.4
+I have created a clone of Twitter with the help of Web Crunch videos by Andy Leverenz.
 
-* Database postgresql
+The project is deployed on Heroku: https://tweet-app-tweetie.herokuapp.com/
+
+Reference:
+Andy Leverenz, Dribbble Clone (2017), GitHub repository, https://github.com/justalever/twittter
