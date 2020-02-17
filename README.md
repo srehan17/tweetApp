@@ -1,24 +1,8 @@
-# README
+<h2>TweetApp</h2>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I have created a clone of Twitter with the help of Web Crunch videos by Andy Leverenz.
 
-Things you may want to cover:
+The project is deployed on Heroku: https://tweet-app-tweetie.herokuapp.com/
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Reference: Andy Leverenz, Twittter (2018), GitHub repository, https://github.com/justalever/twittter
