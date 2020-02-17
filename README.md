@@ -2,7 +2,7 @@
 
 I have created a clone of Twitter with the help of Web Crunch videos by Andy Leverenz.
 
-![](app/assets/tweet-app-tweetie.png)
+![](app/assets/images/tweet-app-tweetie.png)
 
 The project is deployed on Heroku: https://tweet-app-tweetie.herokuapp.com/
 
